@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * @DATA 2019-05-14 14:10
- * @Author 张国伟  WeChat:17630376104
+ * @Author 周恒  WeChat:17630376104
  * @Description
  */
 public class GwServiceImpl  implements GwService{

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @DATA 2019-05-14 14:01
- * @Author 张国伟  WeChat:17630376104
+ * @Author 周恒  WeChat:17630376104
  * @Description 配置类
  */
 @Component
