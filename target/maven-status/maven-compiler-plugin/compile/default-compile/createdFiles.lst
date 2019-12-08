@@ -1,0 +1,4 @@
+com\gw\GwService.class
+com\gw\GwServiceImpl.class
+com\gw\GwProperties.class
+com\gw\GwAutoConfiguration.class

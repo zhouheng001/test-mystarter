@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "spring.gwname")
 public class GwProperties {
 
-    String name="zgw";
+    String name;
 
     public String getName() {
         return name;
